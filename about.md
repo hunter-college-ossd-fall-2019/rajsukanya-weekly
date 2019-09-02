@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+##**About Me:**
+Hello! My name is Sukanya Raj and I am a student majoring in Computer Science at Hunter College. 
 
