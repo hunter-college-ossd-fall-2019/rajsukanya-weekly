@@ -5,5 +5,5 @@ permalink: /about/
 ---
 
 **About Me:**  
-Hello! My name is Sukanya and I am a student majoring in Computer Science at Hunter College. 
+Hello!  My name is Sukanya and I am a student majoring in Computer Science at Hunter College. 
 
