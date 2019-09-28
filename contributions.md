@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  5   | https://www.openstreetmap.org/changeset/75049745    | OpenStreet Map Edit    |   Added details about supermarket    |
+|  5   | https://www.openstreetmap.org/changeset/75049745    | OpenStreet Map Edit    |   Added the name, address and hours of operation of a supermarket    |
 |     |     |     |      |
 |     |     |     |      |
