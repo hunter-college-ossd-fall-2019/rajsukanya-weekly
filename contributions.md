@@ -21,5 +21,5 @@ Replace the first row below with your contribution.
 |---|:---|:---|:---|
 |  3   |  https://www.openstreetmap.org/changeset/74404582#map=19/40.71764/-73.68991 | OpenStreet Map Edit | Added the name and address of a public high school     |
 |  5   | https://www.openstreetmap.org/changeset/75049745  | OpenStreet Map Edit  | Added the name, address and hours of operation of a supermarket    |
-|  6  | https://www.openstreetmap.org/edit#map=20/40.70793/-73.69008  | OpenStreet Map Edit | Added details about an italian restaurant  |
+|  6  | https://www.openstreetmap.org/changeset/75353777  | OpenStreet Map Edit | Added details about an italian restaurant  |
 |     |     |     |      |
