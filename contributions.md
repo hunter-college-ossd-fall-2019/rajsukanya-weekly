@@ -23,3 +23,4 @@ Replace the first row below with your contribution.
 | 5 | [Link](https://www.openstreetmap.org/changeset/75049745) | OpenStreet Map Edit  | Added the name, address and hours of operation of a supermarket    |
 | 6 | [Link](https://www.openstreetmap.org/changeset/75353777) | OpenStreet Map Edit | Added details about an italian restaurant  |
 | 7 | [Link](https://www.openstreetmap.org/changeset/75639329#map=15/40.6965/-73.6933) | OpenStreet Map Edit | Added details about a bakery & direction and speed limit of one way residental road |
+| 9 | [Link](https://www.openstreetmap.org/changeset/76250445) | OpenStreetMap Edit | Added details about a clothing store |
