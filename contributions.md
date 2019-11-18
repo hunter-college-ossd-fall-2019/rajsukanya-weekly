@@ -20,8 +20,9 @@ Replace the first row below with your contribution.
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
 | 3 | [Sewanhaka High School](https://www.openstreetmap.org/changeset/74404582#map=19/40.71764/-73.68991) | OpenStreet Map feature | Added the name and address of a public high school     |
-| 5 | [Key Food](https://www.openstreetmap.org/changeset/75049745) | OpenStreet Map feature  | Added the name, address and hours of operation of a supermarket    |
-| 6 | [King Umberto](https://www.openstreetmap.org/changeset/75353777) | OpenStreet Map feature | Added details about an italian restaurant  |
+| 4 | [Ariella's Blog](https://github.com/hunter-college-ossd-fall-2019/ariella879-weekly/pull/7) | Blog Edit | Fixed spelling mistakes |
+| 5 | [Key Food](https://www.openstreetmap.org/changeset/75049745) | OpenStreet Map feature  | Added the name, address and hours of operation of a supermarket |
+| 6 | [King Umberto](https://www.openstreetmap.org/changeset/75353777) | OpenStreet Map feature | Added details about an italian restaurant |
 | 7 | [Sapienza Bake Shop](https://www.openstreetmap.org/changeset/75639329#map=15/40.6965/-73.6933) | OpenStreet Map feature | Added details about a bakery & direction and speed limit of one way residental road |
 | 9 | [Work 'N Gear](https://www.openstreetmap.org/changeset/76250445) | OpenStreet Map feature | Added details about a clothing store |
 | 11 | [Public holidays in India](https://en.wikipedia.org/w/index.php?title=Public_holidays_in_India&diff=prev&oldid=925754970) | Wikipedia edit | Fixed some grammatical mistakes |
