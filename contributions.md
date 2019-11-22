@@ -32,3 +32,4 @@ Replace the first row below with your contribution.
 | 12 | [Knowing Bros](https://en.wikipedia.org/w/index.php?title=Knowing_Bros&type=revision&diff=926688885&oldid=926567413) | Wikipedia edit | Fixed some spelling and grammar mistakes |
 | 12 | [Ariella's Blog](https://github.com/hunter-college-ossd-fall-2019/ariella879-weekly/pull/8) | Blog Edit | Fixed spelling and grammar mistakes |
 | 13 | [Sophiabonsu's Blog](https://github.com/hunter-college-ossd-fall-2019/sophiabonsu-weekly/pull/4) | Blog Edit | Made some grammatical corrections |
+| 13 | [R-Ligier's Blog](https://github.com/hunter-college-ossd-fall-2019/R-Ligier-weekly/pull/5) | Blog Edit | Made a few spelling and grammatical corrections |
