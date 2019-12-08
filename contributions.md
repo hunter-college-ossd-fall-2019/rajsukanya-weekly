@@ -34,3 +34,4 @@ Replace the first row below with your contribution.
 | 13 | [Sophiabonsu's Blog](https://github.com/hunter-college-ossd-fall-2019/sophiabonsu-weekly/pull/4) | Blog Edit | Made some grammatical corrections |
 | 13 | [R-Ligier's Blog](https://github.com/hunter-college-ossd-fall-2019/R-Ligier-weekly/pull/5) | Blog Edit | Made a few spelling and grammatical corrections |
 | 13 | [Kluen Cheewit](https://en.wikipedia.org/w/index.php?title=Khluen_Chiwit&type=revision&diff=927523443&oldid=905742444) | Wikipedia edit | Made some grammatical corrections |
+| 14 | [Benjaminlgur's Blog](https://github.com/hunter-college-ossd-fall-2019/benjaminlgur-weekly/pull/5/files) | Blog Edit | Fixed some spelling and grammatical mistakes |
