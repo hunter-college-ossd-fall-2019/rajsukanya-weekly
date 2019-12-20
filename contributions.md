@@ -32,7 +32,9 @@ Replace the first row below with your contribution.
 | 12 | [Pinocchio (2014 TV series)](https://en.wikipedia.org/w/index.php?title=Pinocchio_%282014_TV_series%29&type=revision&diff=926672555&oldid=917598090) | Wikipedia edit | Fixed some minor grammar mistakes |
 | 12 | [Knowing Bros](https://en.wikipedia.org/w/index.php?title=Knowing_Bros&type=revision&diff=926688885&oldid=926567413) | Wikipedia edit | Fixed some spelling and grammar mistakes |
 | 12 | [Ariella's Blog](https://github.com/hunter-college-ossd-fall-2019/ariella879-weekly/pull/8) | Blog Edit | Fixed spelling and grammar mistakes |
+| 12 | [30 seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/446) | Project Contribution | Fixed some grammatical mistakes |
 | 13 | [Sophiabonsu's Blog](https://github.com/hunter-college-ossd-fall-2019/sophiabonsu-weekly/pull/4) | Blog Edit | Made some grammatical corrections |
 | 13 | [R-Ligier's Blog](https://github.com/hunter-college-ossd-fall-2019/R-Ligier-weekly/pull/5) | Blog Edit | Made a few spelling and grammatical corrections |
 | 13 | [Kluen Cheewit](https://en.wikipedia.org/w/index.php?title=Khluen_Chiwit&type=revision&diff=927523443&oldid=905742444) | Wikipedia edit | Made some grammatical corrections |
+| 13 | [30 seconds of C++](https://github.com/Bhupesh-V/30-seconds-of-cpp/pull/457) | Project Contribution | Implemented reverse_copy method for algorithm | 
 | 14 | [Benjaminlgur's Blog](https://github.com/hunter-college-ossd-fall-2019/benjaminlgur-weekly/pull/5/files) | Blog Edit | Fixed some spelling and grammatical mistakes |
